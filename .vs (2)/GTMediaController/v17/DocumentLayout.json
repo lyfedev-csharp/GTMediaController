@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lyfe\\Documents\\Chqser\\Other Projects\\GTMediaController\\GTMediaController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{867435C7-C444-43DC-869E-17CC9A97BB18}|GTMediaController.vcxproj|C:\\Users\\lyfe\\Documents\\Chqser\\Other Projects\\GTMediaController\\GTMediaController\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{867435C7-C444-43DC-869E-17CC9A97BB18}|GTMediaController.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\lyfe\\Documents\\Chqser\\Other Projects\\GTMediaController\\GTMediaController\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\lyfe\\Documents\\Chqser\\Other Projects\\GTMediaController\\GTMediaController\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-04T17:46:52.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
